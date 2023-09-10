@@ -20,4 +20,13 @@ doc_view.addEventListener("click", function(event) {
   }
 });
 
-export { doc_view }
+
+let el_edit = document.createElement("div");
+el.edit.setAttribute("id", "element-edit");
+document.body.append(el_edit);
+
+
+export { doc_view, 
+el.edit.setAttribute("id", "element-edit");
+document.body.append(el_edit);
+}
