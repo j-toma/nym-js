@@ -5,5 +5,5 @@ import * as viewChildCounter from './modules/counter.js';
 
 //console.log(viewChildCounter.viewChildCounter);
 createStartingTemplate(doc_view);
-console.log(viewChildCounter.viewChildCounter);
+//console.log(viewChildCounter.viewChildCounter);
 
