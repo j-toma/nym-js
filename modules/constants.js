@@ -19,6 +19,7 @@ export const list_acceptable_endings = [
   '!?',
   '...',
 ];
+
 export const list_acceptable_endings_w_space= [
   '. ',
   '! ',
