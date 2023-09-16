@@ -23,9 +23,9 @@ function addDropdown(eventTarget) {
   }
 
   let input = document.querySelector("#edit-element-input");
-  let el_edit = document.querySelector("#edit-element");
+  let el_view = document.querySelector("#element-view");
   if (input) {
-    el_edit.insertBefore(typeDropdown, input);
+    el_view.insertBefore(typeDropdown, input);
   }
 }
 

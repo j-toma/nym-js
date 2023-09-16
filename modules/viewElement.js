@@ -6,9 +6,8 @@ function viewElement(event) {
   // add input element with value of the clicked element
   addInput(event.target);
 
-  // add dropdown with html element options
-  // listed in constants.js
-  // elementTypes, elementsToDisplay
+  // add new after element clicked
+  // addDropdown will go in here
   // addDropdown(event.target);
 
   // add submit button

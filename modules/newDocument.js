@@ -1,4 +1,4 @@
-import * as viewChildCounter from './counter.js'
+import * as viewChildCounter from './counters.js'
 
 // function createStartingTemplate(view, viewChildCounter) {
 function createStartingTemplate(view) {
